@@ -1,0 +1,10 @@
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\3935_Carolina_T02.csproj.AssemblyReference.cache
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\_3935_Carolina_T02.Form1.resources
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\_3935_Carolina_T02.Properties.Resources.resources
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\3935_Carolina_T02.csproj.GenerateResource.cache
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\3935_Carolina_T02.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\bin\Debug\3935_Carolina_T02.exe.config
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\bin\Debug\3935_Carolina_T02.exe
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\bin\Debug\3935_Carolina_T02.pdb
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\3935_Carolina_T02.exe
+C:\Users\Carolina\source\repos\3935_Carolina_T02\3935_Carolina_T02\obj\Debug\3935_Carolina_T02.pdb
